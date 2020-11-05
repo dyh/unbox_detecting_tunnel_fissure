@@ -26,7 +26,7 @@
 
 - youtube
 
-[![Railway Tunnel Fissure Detection](https://github.com/dyh/unbox_detecting_tunnel_fissure/blob/main/cover.jpg)](https://www.youtube.com/watch?v=u4YpOLUxE9E "Railway Tunnel Fissure Detection")
+[![Railway Tunnel Fissure Detection](https://github.com/dyh/unbox_detecting_tunnel_fissure/blob/main/cover.png?raw=true)](https://www.youtube.com/watch?v=u4YpOLUxE9E "Railway Tunnel Fissure Detection")
 
 
 - [b站视频请点这里](https://www.bilibili.com/video/BV1DT4y1F7yG/)
