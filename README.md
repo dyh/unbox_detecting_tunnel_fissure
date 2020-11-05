@@ -15,10 +15,21 @@
 - [bilibili b站频道](https://space.bilibili.com/326361150)
 
 
-# unbox_detecting_tunnel_fissure
-unbox detectron2, how to detect tunnel fissure via mask r-cnn
+# [Unbox AI] Railway Tunnel Fissure Detection based on Mask R-CNN and Detectron2
 
-> 开箱 detectron2，基于mask r-cnn 检测隧道裂缝
+> [AI开箱] 基于mask r-cnn和detectron2的 铁路隧道裂缝检测
+
+
+## video
+
+> 视频
+
+- youtube
+
+[![Railway Tunnel Fissure Detection](https://github.com/dyh/unbox_detecting_tunnel_fissure/blob/main/cover.jpg)](https://www.youtube.com/watch?v=u4YpOLUxE9E "Railway Tunnel Fissure Detection")
+
+
+- [b站视频请点这里](https://www.bilibili.com/video/BV1DT4y1F7yG/)
 
 
 ## plese use [google colab](https://colab.research.google.com/) to load [tunnel_fissure.ipynb](https://github.com/dyh/unbox_detecting_tunnel_fissure/blob/main/tunnel_fissure.ipynb) and follow the steps in tunnel_fissure.ipynb file
